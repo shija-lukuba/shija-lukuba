@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shija Lukuba, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/shija-lukuba-5929ab341/">IT Professional</a>!</h1>
+<h1>Hi, I'm Shija Lukuba, an <a href="https://www.linkedin.com/in/shija-lukuba-5929ab341/">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
