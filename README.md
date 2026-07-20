@@ -7,11 +7,11 @@
 - <b>Active Directory</b>
   - [Active Directory: User & Group Management](https://github.com/shija-lukuba/active-directory-lab)
 - <b>Microsoft Azure</b>
-  -[Azure: Virtual Machines and Network Security](https://github.com/shija-lukuba/azure-networking-lab)
+  - [Azure: Virtual Machines and Network Security](https://github.com/shija-lukuba/azure-networking-lab)
 - <b>Windows Administration</b>
-  -[Windows Support Knowledge Base](https://github.com/shija-lukuba/windows-support-knowledge-base)
+  - [Windows Support Knowledge Base](https://github.com/shija-lukuba/windows-support-knowledge-base)
 - <b>PowerShell</b>
-  -[PowerShell: IT Administration Automation](https://github.com/shija-lukuba/powershell-automation)
+  - [PowerShell: IT Administration Automation](https://github.com/shija-lukuba/powershell-automation)
 <h2>🤳Connect with me:</h2>
 
 
